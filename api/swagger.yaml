@@ -3,7 +3,7 @@ swagger: "2.0"
 info:
   version: "1.0.0"
   title: "node-swagger-concurrency"
-host: "127.0.0.1:8080"
+host: "restservicesample.herokuapp.com"
 basePath: "/api"
 schemes:
 - "http"
